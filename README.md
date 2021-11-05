@@ -2,11 +2,11 @@
 
 ### Новые видео:
 <!-- YOUTUBE:START -->
+- [Начало работы с Facebook API Graph](https://www.youtube.com/watch?v=qmSGxpLcfoo)
 - [Открытие Zip-архива с паролем на PHP](https://www.youtube.com/watch?v=4W5XFH-hBlI)
 - [Основы работы с Composer](https://www.youtube.com/watch?v=Yc3zcXfys2w)
 - [Игра "Угадай число" на PHP!](https://www.youtube.com/watch?v=HFGtB_aCuOg)
 - [Читаем о Docker'e на Хабре #2](https://www.youtube.com/watch?v=dRzx4r6S-_I)
-- [Читаем о Docker'e на Хабре #1](https://www.youtube.com/watch?v=3GD2LZQQ9Ug)
 <!-- YOUTUBE:END -->
 
 ### Ссылки:
