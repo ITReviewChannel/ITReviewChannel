@@ -3,7 +3,7 @@
 ### Новые видео:
 <!-- YOUTUBE:START -->
 - [Настройка xDebug 3 + Docker + Windows 10 и Linux Mint 20](https://www.youtube.com/watch?v=XszBIW4sPHk)
-- [Заметки о разработке #1 - Переходим на Линукс](https://www.youtube.com/watch?v=pr1UQpR_7WY)
+- [Заметки разработчика #1 - Переход на Линукс](https://www.youtube.com/watch?v=pr1UQpR_7WY)
 - [Начало работы с Facebook API Graph](https://www.youtube.com/watch?v=qmSGxpLcfoo)
 - [Открытие Zip-архива с паролем на PHP](https://www.youtube.com/watch?v=4W5XFH-hBlI)
 - [Основы работы с Composer](https://www.youtube.com/watch?v=Yc3zcXfys2w)
