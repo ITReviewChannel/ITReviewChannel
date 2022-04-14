@@ -4,9 +4,9 @@
 <!-- YOUTUBE:START -->
 - [Зачем нужно ООП на практике ?](https://www.youtube.com/watch?v=CPR2kyC53Cc)
 - [Настройка xDebug 3 + Docker + Windows 10 и Linux Mint 20](https://www.youtube.com/watch?v=XszBIW4sPHk)
-- [Начало работы с Facebook API Graph](https://www.youtube.com/watch?v=qmSGxpLcfoo)
-- [Открытие Zip-архива с паролем на PHP](https://www.youtube.com/watch?v=4W5XFH-hBlI)
 - [Основы работы с Composer](https://www.youtube.com/watch?v=Yc3zcXfys2w)
+- [Игра &quot;Угадай число&quot; на PHP!](https://www.youtube.com/watch?v=HFGtB_aCuOg)
+- [Основы работы с git](https://www.youtube.com/watch?v=ZzRSgQ0kqDM)
 <!-- YOUTUBE:END -->
 
 ### Ссылки:
