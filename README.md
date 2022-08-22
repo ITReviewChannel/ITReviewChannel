@@ -10,6 +10,8 @@
 <!-- YOUTUBE:END -->
 
 ### Ссылки:
+[Канал на Rutube](https://rutube.ru/channel/25831584/)
+
 [Канал на YouTube](https://www.youtube.com/channel/UCVuN6oJcUJnk2AwAe23jKhQ)
 
 [Сайт канала - ITReviewChannel.RU](https://itreviewchannel.ru/)
